@@ -1,9 +1,5 @@
 # badminton event accounting
 
-2016 Yangguang
-
-Card budget: 2000 + 260 bonus
-
 2016 LongQi(Shuang)
 
 Card budget: 1000 + 100 bonus
@@ -20,10 +16,12 @@ May. 10|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ, Songtao|70|15.0(10+5)|1925
 May. 17|2h(LongQi)|Shuang, Mei, Huaxing, LiQ, Songtao|76(Zhenyu)|20.0(15+5)|
 May. 24|2h(LongQix2)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind|(66+76)/7|5.0(ball)| 
 May. 31|2h(LongQix2)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind|(66+76)/7|5.0(ball)| 
-June. 5|2h(LongQix1)|Shuang, Huaxing, Tianye, Songtao, Yushu|76/5|5.0(ball)| 
-June. 12|2h|Shuang, Huaxing, Tianye, Songtao, MeiLei, Wind|70|17(12+5.0)| 
-June. 19|2h(LongQix2)|Shuang, Huaxing, Tianye, Songtao, Zhaoying, Wind|(64+64)/5|5.0(ball)| 
+June. 7|2h(LongQix1)|Shuang, Huaxing, Tianye, Songtao, Yushu|76/5|5.0(ball)| 
+June. 14|2h|Shuang, Huaxing, Tianye, Songtao, MeiLei, Wind|70|17(12+5.0)| 
+June. 21|2h(LongQix2)|Shuang, Huaxing, Tianye, Songtao, Zhaoying, Wind|(64+64)/5|5.0(ball)| 
 June. 28|2h(LongQix1)|Shuang, Tianye, Songtao, Zhaoying|64/4|5.0(ball)| 
+July. 5|2h(LongQix2)|Shuang, LiQ, Wind, Songtao, Zhaoying, Yushu|(64+69)/6|5.0(ball)| 
+July. 12|2h(LongQix1)|Shuang, LiQ, Tianye, Songtao, Zhaoying|32/5|5.0(ball)| 
 
 Shuang
 
@@ -41,14 +39,15 @@ May. 24|5.0|-5.5
 May. 24|20.5|-26
 May. 31|5.0|-31
 May. 31|20.5|-51.5
-June. 5|5.0|-56.5
-June. 5|15.5|-72
-June. 12|17.0|-89
-June. 19|5.0|-94
-June. 19|25.5|-119.5
+June. 7|5.0|-56.5
+June. 7|15.5|-72
+June. 14|17.0|-89
+June. 21|5.0|-94
+June. 21|25.5|-119.5
 June. 28|5.0|-124.5
 June. 28|16.0|-140.5
-
+July. 5|27.5|-168.0
+July. 12|11.5|-179.5
 
 Aubrey
 
@@ -92,6 +91,7 @@ May. 24|20.5|-23.5
 May. 31|5.0|-28.5
 May. 31|20.5|-49
 June. 12|17.0|-66
+June. 16|+100|34
 
 Kangkang
 
@@ -114,11 +114,13 @@ May. 24|5.0|-99.0
 May. 24|20.5|-119.5
 May. 31|5.0|-124.5
 May. 31|20.5|-145
-June. 5|5.0|-150.0
-June. 5|15.5|-165.5
-June. 12|17.0|-182.5
-June. 19|5.0|-187.5
-June. 19|25.5|-213
+June. 7|5.0|-150.0
+June. 7|15.5|-165.5
+June. 14|17.0|-182.5
+June. 21|5.0|-187.5
+June. 21|25.5|-213
+June. 29|+213|0
+
 
 Songtao
 
@@ -135,13 +137,16 @@ May. 24|5.0|-5.0
 May. 24|20.5|-26
 May. 31|5.0|-31.0
 May. 31|20.5|-51.5
-June. 5|5.0|-56.5
-June. 5|15.5|-72
-June. 12|17.0|-89.0
-June. 19|5.0|-94.0
-June. 19|25.5|-119.5
+June. 7|5.0|-56.5
+June. 7|15.5|-72
+June. 14|17.0|-89.0
+June. 21|5.0|-94.0
+June. 21|25.5|-119.5
 June. 28|5.0|-124.5
 June. 28|16.0|-140.5
+June. 29|+200|59.5
+July. 5|27.5|32.0
+July. 12|11.5|20.5
 
 Tianye
 
@@ -155,14 +160,16 @@ May. 24|5.0|48.0
 May. 24|20.5|27.5
 May. 31|5.0|22.5
 May. 31|20.5|2
-June. 5|5.0|-3.0
-June. 5|15.5|-18.5
-June. 12|17.0|-35.5
-June. 19|5.0|-40.5
-June. 19|25.5|-66
+June. 7|5.0|-3.0
+June. 7|15.5|-18.5
+June. 14|17.0|-35.5
+June. 21|5.0|-40.5
+June. 21|25.5|-66
 June. 21|+100.0|34.0
 June. 28|5.0|29.0
 June. 28|16.0|13
+July. 5|27.5|-14.5
+July. 12|11.5|-26.0
 
 LiQ
 
@@ -179,6 +186,8 @@ May. 24|5.0|60.0
 May. 24|20.5|39.5
 May. 31|5.0|34.5
 May. 31|20.5|14.5
+July. 5|27.5|-13.0
+July. 12|11.5|-24.5
 
 Yushu
 
@@ -186,15 +195,18 @@ Date|Event/Fee|Balance
 ----|---------|-------
 June. 5|5.0|-5.0
 June. 5|15.5|-20.5
+July. 5|27.5|-48.0
 
 Zhaoying
 
 Date|Event/Fee|Balance
 ----|---------|-------
-June. 19|5.0|-5.0
-June. 19|25.5|-30.5
+June. 21|5.0|-5.0
+June. 21|25.5|-30.5
 June. 28|5.0|-35.5
 June. 28|16.0|-51.5
+July. 5|27.5|-79.0
+July. 12|11.5|-90.5
 
 Wind
 
@@ -204,9 +216,11 @@ May. 24|5.0|-5.0
 May. 24|20.5|-26
 May. 31|5.0|-10.0
 May. 31|20.5|-51.5
-June. 12|17.0|-27.0
-June. 19|5.0|-32.0
-June. 19|25.5|-119.5
+June. 14|17.0|-27.0
+June. 21|5.0|-32.0
+June. 21|25.5|-119.5
+July. 4|+200|80.5
+July. 5|27.5|53.0
 
 Yakui
 

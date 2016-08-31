@@ -29,6 +29,7 @@ Aug. 2|1.5h(LongQix2)|Shuang, LiQ, Wind, Tianye, Songtao, Zhaoying, Mengying, Me
 Aug. 9|1.5h(LongQix2)|Shuang, LiQ, Tianye, Zhibing, Sunan, Zhaoying|48/6|5.0(ball)|
 Aug. 16|1.5h(LongQix2)|LiQ, Tianye, Mengying, Mei, Sunan, Xudong|48/6|5.0(ball)|
 Aug. 23|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Xudong, Huaxing, Songtao|48/9|5.0(ball)|
+Aug. 30|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Zhaoying, Huaxing, Songtao|48/9|5.0(ball)|
 
 Shuang
 
@@ -60,6 +61,7 @@ July. 26|11.0|-203.5
 Aug. 2|9.5|-213
 Aug. 9|13|-226
 Aug. 23|10.5|-236.5
+Aug. 30|10.5|-247
 
 Aubrey
 
@@ -137,6 +139,7 @@ June. 21|5.0|-187.5
 June. 21|25.5|-213
 June. 29|+213|0
 Aug. 23|10.5|-10.5
+Aug. 30|10.5|-21
 
 
 Songtao
@@ -168,6 +171,7 @@ July. 19|13.0|7.5
 July. 26|11.0|-3.5
 Aug. 2|9.5|-13
 Aug. 23|10.5|-23.5
+Aug. 30|10.5|-34
 
 Tianye
 
@@ -198,6 +202,7 @@ Aug. 2|9.5|40.5
 Aug. 9|13|27.5
 Aug. 16|13|14.5
 Aug. 23|10.5|4
+Aug. 30|10.5|-6.5
 
 LiQ
 
@@ -223,6 +228,7 @@ Aug. 2|9.5|42.0
 Aug. 9|13|29.0
 Aug. 16|13|16.0
 Aug. 23|10.5|5.5
+Aug. 30|10.5|-5
 
 Yushu
 
@@ -249,6 +255,7 @@ July. 26|11.0|-114.5
 Aug. 2|9.5|-124.0
 Aug. 9|+124|0
 Aug. 9|13|-13
+Aug. 30|10.5|-23.5
 
 Wind
 
@@ -303,6 +310,8 @@ Aug. 2|9.5|-9.5
 Aug. 9|13|-22.5
 Aug. 16|13|-35.5
 Aug. 23|10.5|-46
+Aug. 25|+46|0
+Aug. 30|10.5|-10.5
 
 Xudong
 
@@ -316,3 +325,4 @@ Dengsheng
 Date|Event/Fee|Balance
 ----|---------|-------
 Aug. 23|10.5|-10.5
+Aug. 30|10.5|-21

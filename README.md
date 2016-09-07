@@ -3,6 +3,7 @@
 2016 LongQi(Shuang)
 
 Card budget: 1000 + 100 bonus
+Card budget: 2000 + 300 bonus (20160906)
 
 Date|Duration|Person|Fee|Person Fee|Card Expense
 ----|--------|------|---|----------|------------
@@ -30,6 +31,7 @@ Aug. 9|1.5h(LongQix2)|Shuang, LiQ, Tianye, Zhibing, Sunan, Zhaoying|48/6|5.0(bal
 Aug. 16|1.5h(LongQix2)|LiQ, Tianye, Mengying, Mei, Sunan, Xudong|48/6|5.0(ball)|
 Aug. 23|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Xudong, Huaxing, Songtao|48/9|5.0(ball)|
 Aug. 30|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Zhaoying, Huaxing, Songtao|48/9|5.0(ball)|
+Sep. 6|1.5h(LongQix3)|Shuang, LiQ, Tianye, Wind, Mei, Sunan, Zhaoying, Huaxing, Songtao, Mengying, Lemon, Xudong|72/12|5.0(ball)|
 
 Shuang
 
@@ -62,6 +64,7 @@ Aug. 2|9.5|-213
 Aug. 9|13|-226
 Aug. 23|10.5|-236.5
 Aug. 30|10.5|-247
+Sep. 6|11|-258
 
 Aubrey
 
@@ -110,6 +113,7 @@ July. 12|11.0|23
 Aug. 2|9.5|13.5
 Aug. 16|13|0.5
 Aug. 23|10.5|-10
+Sep. 6|11|-21
 
 Kangkang
 
@@ -140,6 +144,7 @@ June. 21|25.5|-213
 June. 29|+213|0
 Aug. 23|10.5|-10.5
 Aug. 30|10.5|-21
+Sep. 6|11|-32
 
 
 Songtao
@@ -172,6 +177,7 @@ July. 26|11.0|-3.5
 Aug. 2|9.5|-13
 Aug. 23|10.5|-23.5
 Aug. 30|10.5|-34
+Sep. 6|11|-45
 
 Tianye
 
@@ -203,6 +209,7 @@ Aug. 9|13|27.5
 Aug. 16|13|14.5
 Aug. 23|10.5|4
 Aug. 30|10.5|-6.5
+Sep. 6|11|-17.5
 
 LiQ
 
@@ -229,6 +236,8 @@ Aug. 9|13|29.0
 Aug. 16|13|16.0
 Aug. 23|10.5|5.5
 Aug. 30|10.5|-5
+Sep. 6|11|-16
+Sep. 6|+100|84
 
 Yushu
 
@@ -256,6 +265,7 @@ Aug. 2|9.5|-124.0
 Aug. 9|+124|0
 Aug. 9|13|-13
 Aug. 30|10.5|-23.5
+Sep. 6|11|-34.5
 
 Wind
 
@@ -273,6 +283,7 @@ July. 5|27.5|53.0
 July. 19|13.0|40.0
 July. 26|11.0|29.0
 Aug. 2|9.5|19.5
+Sep. 6|11|8.5
 
 Yakui
 
@@ -294,6 +305,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Aug. 2|9.5|-9.5
 Aug. 16|13|-22.5
+Sep. 6|11|-33.5
 
 zhibin
 
@@ -302,7 +314,7 @@ Date|Event/Fee|Balance
 Aug. 2|9.5|-9.5
 Aug. 9|13|-22.5
 
-sunan
+Sunan
 
 Date|Event/Fee|Balance
 ----|---------|-------
@@ -312,6 +324,7 @@ Aug. 16|13|-35.5
 Aug. 23|10.5|-46
 Aug. 25|+46|0
 Aug. 30|10.5|-10.5
+Sep. 6|11|-21.5
 
 Xudong
 
@@ -319,6 +332,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Aug. 16|13|-13
 Aug. 23|10.5|-23.5
+Sep. 6|11|-34.5
 
 Dengsheng
 
@@ -326,3 +340,10 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Aug. 23|10.5|-10.5
 Aug. 30|10.5|-21
+
+Lemon
+
+Date|Event/Fee|Balance
+----|---------|-------
+Sep. 6|11|-11
+

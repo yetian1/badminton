@@ -32,6 +32,8 @@ Aug. 16|1.5h(LongQix2)|LiQ, Tianye, Mengying, Mei, Sunan, Xudong|48/6|5.0(ball)|
 Aug. 23|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Xudong, Huaxing, Songtao|48/9|5.0(ball)|
 Aug. 30|1.5h(LongQix2)|Shuang, LiQ, Tianye, Dengsheng, Mei, Sunan, Zhaoying, Huaxing, Songtao|48/9|5.0(ball)|
 Sep. 6|1.5h(LongQix3)|Shuang, LiQ, Tianye, Wind, Mei, Sunan, Zhaoying, Huaxing, Songtao, Mengying, Lemon, Xudong|72/12|5.0(ball)|
+Sep. 13|1.5h(LongQix2)|Shuang, LiQ, Tianye, Wind, Sunan, Huaxing, Chukun|48/7|5.0(ball)|
+Sep. 20|1.5h(LongQix2)|Shuang, LiQ, Tianye, Wind, Sunan|48/5|5.0(ball)|
 
 Shuang
 
@@ -65,6 +67,8 @@ Aug. 9|13|-226
 Aug. 23|10.5|-236.5
 Aug. 30|10.5|-247
 Sep. 6|11|-258
+Sep. 13|12|-270
+Sep. 20|15|-285
 
 Aubrey
 
@@ -113,7 +117,8 @@ July. 12|11.0|23
 Aug. 2|9.5|13.5
 Aug. 16|13|0.5
 Aug. 23|10.5|-10
-Sep. 6|11|-21
+Aug. 25|+100|90
+Sep. 6|11|79
 
 Kangkang
 
@@ -142,9 +147,11 @@ June. 14|17.0|-182.5
 June. 21|5.0|-187.5
 June. 21|25.5|-213
 June. 29|+213|0
-Aug. 23|10.5|-10.5
-Aug. 30|10.5|-21
-Sep. 6|11|-32
+Aug. 13|+100|100
+Aug. 23|10.5|89.5
+Aug. 30|10.5|79
+Sep. 6|11|68
+Sep. 13|12|56
 
 
 Songtao
@@ -210,6 +217,9 @@ Aug. 16|13|14.5
 Aug. 23|10.5|4
 Aug. 30|10.5|-6.5
 Sep. 6|11|-17.5
+Sep. 13|+100|83.5
+Sep. 13|12|71.5
+Sep. 20|15|56.5
 
 LiQ
 
@@ -238,6 +248,8 @@ Aug. 23|10.5|5.5
 Aug. 30|10.5|-5
 Sep. 6|11|-16
 Sep. 6|+100|84
+Sep. 13|12|72
+Sep. 20|15|57
 
 Yushu
 
@@ -284,6 +296,9 @@ July. 19|13.0|40.0
 July. 26|11.0|29.0
 Aug. 2|9.5|19.5
 Sep. 6|11|8.5
+Sep. 13|+200|208.5
+Sep. 13|12|196.5
+Sep. 20|15|181.5
 
 Yakui
 
@@ -298,6 +313,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 June. 26|5.0|-5.0
 July. 26|11.0|-16.0
+Sep. 13|12|-28
 
 Mengying
 
@@ -325,6 +341,8 @@ Aug. 23|10.5|-46
 Aug. 25|+46|0
 Aug. 30|10.5|-10.5
 Sep. 6|11|-21.5
+Sep. 13|12|-33.5
+Sep. 20|15|-48.5
 
 Xudong
 

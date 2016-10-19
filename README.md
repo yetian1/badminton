@@ -36,6 +36,7 @@ Sep. 13|1.5h(LongQix2)|Shuang, LiQ, Tianye, Wind, Sunan, Huaxing, Chukun|48/7|5.
 Sep. 20|1.5h(LongQix2)|Shuang, LiQ, Tianye, Wind, Sunan|48/5|5.0(ball)|
 Sep. 27|2h(LongQix2)|Shuang, LiQ, Songtao, Zhaoying, Tianye, Wind, Mei, Sunan|64/8|5.0(ball)|
 Oct. 11|2h(LongQi)|Shuang, Zhenyu, Tianye, Wind|32/4|5.0(ball)|
+Oct. 18|2h(LongQix2)|Shuang, LiQ, Tianye, Wind, Zhaoying, Sunan, Shengyan|64/7|5.0(ball)|
 
 Shuang
 
@@ -73,6 +74,7 @@ Sep. 13|12|-270
 Sep. 20|15|-285
 Sep. 27|13|-298
 Oct. 11|13|-311
+Oct. 18|14.5|-325.5
 
 Aubrey
 
@@ -228,6 +230,7 @@ Sep. 13|12|71.5
 Sep. 20|15|56.5
 Sep. 27|13|43.5
 Oct. 11|13|30.5
+Oct. 18|14.5|16
 
 LiQ
 
@@ -259,6 +262,7 @@ Sep. 6|+100|84
 Sep. 13|12|72
 Sep. 20|15|57
 Sep. 27|13|44
+Oct. 18|14.5|29.5
 
 Yushu
 
@@ -288,6 +292,7 @@ Aug. 9|13|-13
 Aug. 30|10.5|-23.5
 Sep. 6|11|-34.5
 Sep. 27|13|-47.5
+Oct. 18|14.5|-62
 
 Wind
 
@@ -311,6 +316,7 @@ Sep. 13|12|196.5
 Sep. 20|15|181.5
 Sep. 27|13|168.5
 Oct. 11|13|155.5
+Oct. 18|14.5|141
 
 Yakui
 
@@ -356,6 +362,7 @@ Sep. 6|11|-21.5
 Sep. 13|12|-33.5
 Sep. 20|15|-48.5
 Sep. 27|13|-61.5
+Oct. 18|14.5|-76
 
 Xudong
 
@@ -384,3 +391,8 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Oct. 11|13|-13
 
+Shengyan
+
+Date|Event/Fee|Balance
+----|---------|-------
+Oct. 18|14.5|-14.5

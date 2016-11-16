@@ -40,6 +40,7 @@ Oct. 18|2h(LongQix2)|Shuang, LiQ, Tianye, Wind, Zhaoying, Sunan, Shengyan|64/7|5
 Oct. 25|2h(LongQix2)|Shuang, LiQ, Tianye, Wind, Zhaoying, Sunan, Shengyan|64/7|5.0(ball)|
 Nov. 1|2h(LongQix2)|Shuang, LiQ, Tianye, Zhaoying, Sunan, Mei, Songtao|64/7|5.0(ball)|
 Nov. 8|2h(LongQix2)|Shuang, LiQ, Tianye, Zhaoying, Sunan, Mei, Songtao, Shengyan|64/8|5.0(ball)|
+Nov. 15|2h(LongQix2)|Shuang, LiQ, Tianye, Sunan, Mei, Songtao, Wind|64/7|5.0(ball)|
 
 Shuang
 
@@ -83,6 +84,7 @@ Nov. 1|14.5|-354.5
 Nov. 8|13|-367.5
 Nov. 8|+104|-263.5
 Nov. 8|+80|-183.5
+Nov. 15|14.5|-198
 
 Aubrey
 
@@ -136,6 +138,7 @@ Sep. 6|11|79
 Sep. 27|13|66
 Nov. 1|14.5|51.5
 Nov. 8|13|38.5
+Nov. 15|14.5|24
 
 Kangkang
 
@@ -206,6 +209,7 @@ Sep. 27|13|-58
 Nov. 1|14.5|-72.5
 Nov. 8|13|-85.5
 Nov. 9|+100|14.5
+Nov. 15|14.5|0
 
 Tianye
 
@@ -247,6 +251,7 @@ Oct. 18|14.5|16
 Oct. 25|14.5|1.5
 Nov. 1|14.5|-13
 Nov. 8|13|-26
+Nov. 15|14.5|-40.5
 
 LiQ
 
@@ -283,6 +288,7 @@ Oct. 25|14.5|15
 Nov. 1|14.5|0.5
 Nov. 8|13|-12.5
 Nov. 9|+100|87.5
+Nov. 15|14.5|73
 
 Yushu
 
@@ -343,6 +349,7 @@ Sep. 27|13|168.5
 Oct. 11|13|155.5
 Oct. 18|14.5|141
 Oct. 25|14.5|126.5
+Nov. 15|14.5|112
 
 Yakui
 
@@ -394,6 +401,7 @@ Oct. 25|14.5|-90.5
 Nov. 1|14.5|-105
 Nov. 8|13|-118
 Nov. 9|+118|0
+Nov. 15|14.5|-14.5
 
 Xudong
 

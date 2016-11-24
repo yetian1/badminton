@@ -41,6 +41,8 @@ Oct. 25|2h(LongQix2)|Shuang, LiQ, Tianye, Wind, Zhaoying, Sunan, Shengyan|64/7|5
 Nov. 1|2h(LongQix2)|Shuang, LiQ, Tianye, Zhaoying, Sunan, Mei, Songtao|64/7|5.0(ball)|
 Nov. 8|2h(LongQix2)|Shuang, LiQ, Tianye, Zhaoying, Sunan, Mei, Songtao, Shengyan|64/8|5.0(ball)|
 Nov. 15|2h(LongQix2)|Shuang, LiQ, Tianye, Sunan, Mei, Songtao, Wind|64/7|5.0(ball)|
+#PRICE CHANGED TO 45 PER HOUR
+Nov. 22|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, Guoyi|78/5|5.0(ball)|
 
 Shuang
 
@@ -85,6 +87,7 @@ Nov. 8|13|-367.5
 Nov. 8|+104|-263.5
 Nov. 8|+80|-183.5
 Nov. 15|14.5|-198
+Nov. 22|15.5|-213.5
 
 Aubrey
 
@@ -252,6 +255,7 @@ Oct. 25|14.5|1.5
 Nov. 1|14.5|-13
 Nov. 8|13|-26
 Nov. 15|14.5|-40.5
+Nov. 22|15.5|-56
 
 LiQ
 
@@ -402,6 +406,7 @@ Nov. 1|14.5|-105
 Nov. 8|13|-118
 Nov. 9|+118|0
 Nov. 15|14.5|-14.5
+Nov. 22|15.5|-30
 
 Xudong
 
@@ -437,3 +442,10 @@ Date|Event/Fee|Balance
 Oct. 18|14.5|-14.5
 Oct. 25|14.5|-29
 Nov. 8|13|-42
+Nov. 22|15.5|-57.5
+
+Guoyi
+
+Date|Event/Fee|Balance
+----|---------|-------
+Nov. 22|15.5|-15.5

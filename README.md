@@ -44,6 +44,7 @@ Nov. 15|2h(LongQix2)|Shuang, LiQ, Tianye, Sunan, Mei, Songtao, Wind|64/7|5.0(bal
 #PRICE CHANGED TO 45 PER HOUR
 Nov. 22|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, Guoyi|78/5|5.0(ball)|
 Nov. 29|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, LiQ, Malong|78/6|5.0(ball)|
+Dec. 6|2h(LongQix2)|Shuang, Tianye, Yushu, Sunan, Shengyan, LiQ, Malong, Liulei|78/8|5.0(ball)|
 
 Shuang
 
@@ -90,6 +91,7 @@ Nov. 8|+80|-183.5
 Nov. 15|14.5|-198
 Nov. 22|20|-218
 Nov. 29|18|-236
+Dec. 6|15|-251
 
 Aubrey
 
@@ -260,6 +262,7 @@ Nov. 15|14.5|-40.5
 Nov. 22|20|-60.5
 Nov. 29|18|-78.5
 Dec. 6|+100|21.5
+Dec. 6|15|6.5
 
 LiQ
 
@@ -298,6 +301,7 @@ Nov. 8|13|-12.5
 Nov. 9|+100|87.5
 Nov. 15|14.5|73
 Nov. 29|18|55
+Dec. 6|15|40
 
 Yushu
 
@@ -308,6 +312,7 @@ June. 5|15.5|-20.5
 July. 5|27.5|-48.0
 Aug. 2|+50|2.0
 Aug. 2|9.5|-7.5
+Dec. 6|15|-22.5
 
 Zhaoying
 
@@ -413,6 +418,7 @@ Nov. 9|+118|0
 Nov. 15|14.5|-14.5
 Nov. 22|20|-34.5
 Nov. 29|18|-52.5
+Dec. 6|15|-67.5
 
 Xudong
 
@@ -451,6 +457,7 @@ Nov. 8|13|-42
 Nov. 22|20|-62
 Nov. 29|18|-80
 Dec. 6|+100|20
+Dec. 6|15|5
 
 Guoyi
 
@@ -463,4 +470,11 @@ Malong
 Date|Event/Fee|Balance
 ----|---------|-------
 Nov. 29|18|-18
+Dec. 6|15|-33
+
+Liulei
+
+Date|Event/Fee|Balance
+----|---------|-------
+Dec. 6|15|-15
 

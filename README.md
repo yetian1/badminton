@@ -46,6 +46,7 @@ Nov. 22|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, Guoyi|78/5|5.0(ball)|
 Nov. 29|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, LiQ, Malong|78/6|5.0(ball)|
 Dec. 6|2h(LongQix2)|Shuang, Tianye, Yushu, Sunan, Shengyan, LiQ, Malong, Liulei|78/8|5.0(ball)|
 Dec. 13|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, LiQ, Malong, Liulei, Yiqi, Songtao|78/9|5.0(ball)|
+Dec. 20|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, LiQ, Liulei|78/6|5.0(ball)|
 
 Shuang
 
@@ -94,6 +95,7 @@ Nov. 22|20|-218
 Nov. 29|18|-236
 Dec. 6|15|-251
 Dec. 13|14|-265
+Dec. 20|18|-283
 
 Aubrey
 
@@ -267,6 +269,7 @@ Nov. 29|18|-78.5
 Dec. 6|+100|21.5
 Dec. 6|15|6.5
 Dec. 13|14|-7.5
+Dec. 20|18|-25.5
 
 LiQ
 
@@ -307,6 +310,7 @@ Nov. 15|14.5|73
 Nov. 29|18|55
 Dec. 6|15|40
 Dec. 13|14|26
+Dec. 20|18|8
 
 Yushu
 
@@ -426,6 +430,7 @@ Nov. 22|20|-34.5
 Nov. 29|18|-52.5
 Dec. 6|15|-67.5
 Dec. 13|14|-81.5
+Dec. 20|18|-99.5
 
 Xudong
 
@@ -466,6 +471,7 @@ Nov. 29|18|-80
 Dec. 6|+100|20
 Dec. 6|15|5
 Dec. 13|14|-9
+Dec. 20|18|-27
 
 Guoyi
 
@@ -487,6 +493,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Dec. 6|15|-15
 Dec. 13|14|-29
+Dec. 20|18|-47
 
 Yiqi
 

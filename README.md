@@ -4,6 +4,7 @@
 
 Card budget: 1000 + 100 bonus
 Card budget: 2000 + 300 bonus (20160906)
+Card budget: 1000 (20170103)
 
 Date|Duration|Person|Fee|Person Fee|Card Expense
 ----|--------|------|---|----------|------------
@@ -48,6 +49,7 @@ Dec. 6|2h(LongQix2)|Shuang, Tianye, Yushu, Sunan, Shengyan, LiQ, Malong, Liulei|
 Dec. 13|2h(LongQix2)|Shuang, Tianye, Sunan, Shengyan, LiQ, Malong, Liulei, Yiqi, Songtao|78/9|5.0(ball)|
 Dec. 27|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong|78/6|5.0(ball)|
 Jan. 3|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong, Sunan, Songtao|78/8|5.0(ball)|
+Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao|78/6|5.0(ball)|
 
 Shuang
 
@@ -99,6 +101,7 @@ Dec. 13|14|-265
 Dec. 20|18|-283
 Dec. 27|18|-301
 Jan 3|15|-316
+Jan 10|18|-334
 
 Aubrey
 
@@ -226,6 +229,8 @@ Nov. 9|+100|14.5
 Nov. 15|14.5|0
 Dec. 13|14|-14
 Jan 3|15|-29
+Jan 10|18|-47
+Jan 10|+50|3
 
 Tianye
 
@@ -276,6 +281,8 @@ Dec. 13|14|-7.5
 Dec. 20|18|-25.5
 Dec. 27|18|-43.5
 Jan 3|15|-58.5
+Jan 10|18|-76.5
+Jan 10|+100|23.5
 
 LiQ
 
@@ -329,6 +336,7 @@ Aug. 2|+50|2.0
 Aug. 2|9.5|-7.5
 Dec. 6|15|-22.5
 Dec. 9|+15|-7.5
+Jan. 3|+7.5|0
 
 Zhaoying
 
@@ -438,6 +446,8 @@ Dec. 6|15|-67.5
 Dec. 13|14|-81.5
 Dec. 20|18|-99.5
 Jan 3|15|-104.5
+Jan 10|18|-122.5
+Jan 10|+150|27.5
 
 Xudong
 
@@ -446,6 +456,7 @@ Date|Event/Fee|Balance
 Aug. 16|13|-13
 Aug. 23|10.5|-23.5
 Sep. 6|11|-34.5
+Jan. 3|+50|15.5
 
 Dengsheng
 
@@ -481,6 +492,8 @@ Dec. 13|14|-9
 Dec. 20|18|-27
 Dec. 27|18|-45
 Jan 3|15|-60
+Jan 10|18|-78
+Jan 10|+100|22
 
 Guoyi
 
@@ -497,6 +510,7 @@ Dec. 6|15|-33
 Dec. 13|14|-47
 Dec. 27|18|-65
 Jan 3|15|-80
+Jan 3|+80|0
 
 Liulei
 
@@ -507,6 +521,8 @@ Dec. 13|14|-29
 Dec. 20|18|-47
 Dec. 27|18|-65
 Jan 3|15|-80
+Jan 10|18|-98
+Jan 10|100|2
 
 Yiqi
 
@@ -520,3 +536,4 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Dec. 27|18|-18
 Jan 3|15|-33
+Jan 10|18|-51

@@ -589,6 +589,7 @@ Liuzuoyu
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 14|+20(for rent)|-4
 
 Yinhuaike
 

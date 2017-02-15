@@ -50,7 +50,7 @@ Dec. 27|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong|78/6|5.0
 Jan. 3|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong, Sunan, Songtao|78/8|5.0(ball)|
 Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao|78/6|5.0(ball)|
 Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao, Malong|156/8|5.0(ball)|
-Feb. 14|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liyaolin, Liuzuoyu, Yihuaike|233+22+20/14|5.0(ball)|
+Feb. 14|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liyaolin, Liuzuoyu, Yihuaike|233+22(car)+20(rent)/14|5.0(ball)|
 
 Shuang
 

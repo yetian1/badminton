@@ -50,7 +50,9 @@ Dec. 27|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong|78/6|5.0
 Jan. 3|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Malong, Sunan, Songtao|78/8|5.0(ball)|
 Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao|78/6|5.0(ball)|
 Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao, Malong|156/8|5.0(ball)|
-Feb. 14|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liyaolin, Liuzuoyu, Yihuaike|233+22(car)+20(rent)/14|5.0(ball)|
+Feb. 14|2h(LongQix3)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liyaolin, Liuzuoyu, Yihuaike|233+22(car)+20(rent)/14|5.0(ball)|
+Feb. 21|2h(LongQix3)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike, Wind|233/12|5.0(ball)|
+Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike|194/12|5.0(ball)|
 
 Shuang
 
@@ -105,6 +107,8 @@ Jan 3|15|-316
 Jan 10|18|-334
 Jan 17|24|-358
 Feb 14|24|-382
+Feb 21|24|-406
+Feb 28|21|-427
 
 Aubrey
 
@@ -235,6 +239,8 @@ Jan 3|15|-29
 Jan 10|18|-47
 Jan 10|+50|3
 Jan 17|24|-21
+Feb 21|24|-45
+Feb 28|21|-66
 
 Tianye
 
@@ -289,6 +295,8 @@ Jan 10|18|-76.5
 Jan 10|+100|23.5
 Jan 17|24|-0.5
 Feb 14|24|-24.5
+Feb 21|24|-48.5
+Feb 28|21|-69.5
 
 LiQ
 
@@ -394,6 +402,7 @@ Oct. 11|13|155.5
 Oct. 18|14.5|141
 Oct. 25|14.5|126.5
 Nov. 15|14.5|112
+Feb 21|24|-406
 
 Yakui
 
@@ -457,6 +466,7 @@ Jan 10|+150|27.5
 Jan 17|24|3.5
 Feb 14|24|-20.5
 Feb 14|+22(for car)|1.5
+Feb 28|21|-19.5
 
 Xudong
 
@@ -538,6 +548,7 @@ Jan 10|18|-98
 Jan 10|100|2
 Jan 17|24|-22
 Feb 14|24|-46
+Feb 28|21|-67
 
 Yiqi
 
@@ -554,30 +565,35 @@ Jan 3|15|-33
 Jan 10|18|-51
 Jan 17|24|-75
 Feb 14|24|-99
+Feb 28|21|-120
 
 Zouye
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 28|21|-45
 
 Wangbingjie
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 28|21|-45
 
 Wangjingyu
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 28|21|-45
 
 Xuchengyuan
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 28|21|-45
 
 Liyaolin
 
@@ -591,9 +607,11 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 14|+20(for rent)|-4
+Feb 28|21|-25
 
 Yinhuaike
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Feb 28|21|-45

@@ -53,6 +53,7 @@ Jan. 10|2h(LongQix2)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Songtao,
 Feb. 14|2h(LongQix3)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liyaolin, Liuzuoyu, Yihuaike|233+22(car)+20(rent)/14|5.0(ball)|
 Feb. 21|2h(LongQix3)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike, Wind|233/12|5.0(ball)|
 Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike|194/12|5.0(ball)|
+Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong|141/9|5.0(ball)|
 
 Shuang
 
@@ -109,6 +110,7 @@ Jan 17|24|-358
 Feb 14|24|-382
 Feb 21|24|-406
 Feb 28|21|-427
+Mar 7|20|-447
 
 Aubrey
 
@@ -241,6 +243,7 @@ Jan 10|+50|3
 Jan 17|24|-21
 Feb 21|24|-45
 Feb 28|21|-66
+Mar 7|20|-86
 
 Tianye
 
@@ -297,6 +300,7 @@ Jan 17|24|-0.5
 Feb 14|24|-24.5
 Feb 21|24|-48.5
 Feb 28|21|-69.5
+Mar 7|20|-89.5
 
 LiQ
 
@@ -467,6 +471,7 @@ Jan 17|24|3.5
 Feb 14|24|-20.5
 Feb 14|+22(for car)|1.5
 Feb 28|21|-19.5
+Mar 7|20|-39.5
 
 Xudong
 
@@ -476,6 +481,7 @@ Aug. 16|13|-13
 Aug. 23|10.5|-23.5
 Sep. 6|11|-34.5
 Jan. 3|+50|15.5
+Mar 7|20|-4.5
 
 Dengsheng
 
@@ -549,6 +555,7 @@ Jan 10|100|2
 Jan 17|24|-22
 Feb 14|24|-46
 Feb 28|21|-67
+Mar 7|20|-87
 
 Yiqi
 
@@ -573,6 +580,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 28|21|-45
+Mar 7|20|-65
 
 Wangbingjie
 
@@ -580,6 +588,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 28|21|-45
+Mar 7|20|-65
 
 Wangjingyu
 

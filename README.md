@@ -54,6 +54,7 @@ Feb. 14|2h(LongQix3)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, 
 Feb. 21|2h(LongQix3)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike, Wind|233/12|5.0(ball)|
 Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike|194/12|5.0(ball)|
 Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong|141/9|5.0(ball)|
+Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majing, Shengyan|211/15|5.0(ball)|
 
 Shuang
 
@@ -111,6 +112,7 @@ Feb 14|24|-382
 Feb 21|24|-406
 Feb 28|21|-427
 Mar 7|20|-447
+Mar 14|20|-467
 
 Aubrey
 
@@ -244,6 +246,7 @@ Jan 17|24|-21
 Feb 21|24|-45
 Feb 28|21|-66
 Mar 7|20|-86
+Mar 14|20|-106
 
 Tianye
 
@@ -301,6 +304,7 @@ Feb 14|24|-24.5
 Feb 21|24|-48.5
 Feb 28|21|-69.5
 Mar 7|20|-89.5
+Mar 14|20|-109.5
 
 LiQ
 
@@ -472,6 +476,7 @@ Feb 14|24|-20.5
 Feb 14|+22(for car)|1.5
 Feb 28|21|-19.5
 Mar 7|20|-39.5
+Mar 14|20|-59.5
 
 Xudong
 
@@ -482,6 +487,7 @@ Aug. 23|10.5|-23.5
 Sep. 6|11|-34.5
 Jan. 3|+50|15.5
 Mar 7|20|-4.5
+Mar 14|20|-24.5
 
 Dengsheng
 
@@ -521,6 +527,7 @@ Jan 10|18|-78
 Jan 10|+100|22
 Jan 17|24|-2
 Feb 14|24|-26
+Mar 14|20|-46
 
 Guoyi
 
@@ -556,6 +563,7 @@ Jan 17|24|-22
 Feb 14|24|-46
 Feb 28|21|-67
 Mar 7|20|-87
+Mar 14|20|-107
 
 Yiqi
 
@@ -581,6 +589,7 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 28|21|-45
 Mar 7|20|-65
+Mar 14|20|-85
 
 Wangbingjie
 
@@ -589,6 +598,7 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 28|21|-45
 Mar 7|20|-65
+Mar 14|20|-85
 
 Wangjingyu
 
@@ -596,6 +606,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 28|21|-45
+Mar 14|20|-65
 
 Xuchengyuan
 
@@ -603,6 +614,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 28|21|-45
+Mar 14|20|-65
 
 Liyaolin
 
@@ -617,6 +629,7 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 14|+20(for rent)|-4
 Feb 28|21|-25
+Mar 14|20|-45
 
 Yinhuaike
 
@@ -624,3 +637,16 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
 Feb 28|21|-45
+Mar 14|20|-65
+
+Majing
+
+Date|Event/Fee|Balance
+----|---------|-------
+Mar 14|20|-20
+
+Fulidan
+
+Date|Event/Fee|Balance
+----|---------|-------
+Mar 14|20|-20

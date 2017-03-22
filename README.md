@@ -55,6 +55,7 @@ Feb. 21|2h(LongQix3)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, 
 Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike|194/12|5.0(ball)|
 Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong|141/9|5.0(ball)|
 Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majing, Shengyan|211/15|5.0(ball)|
+Mar. 21|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Mei, Xiong, Liangbo|141/12|5.0(ball)|
 
 Shuang
 
@@ -113,6 +114,7 @@ Feb 21|24|-406
 Feb 28|21|-427
 Mar 7|20|-447
 Mar 14|20|-467
+Mar 21|17|-484
 
 Aubrey
 
@@ -167,6 +169,7 @@ Sep. 27|13|66
 Nov. 1|14.5|51.5
 Nov. 8|13|38.5
 Nov. 15|14.5|24
+Mar 21|17|7
 
 Kangkang
 
@@ -247,6 +250,7 @@ Feb 21|24|-45
 Feb 28|21|-66
 Mar 7|20|-86
 Mar 14|20|-106
+Mar 21|17|-123
 
 Tianye
 
@@ -305,6 +309,7 @@ Feb 21|24|-48.5
 Feb 28|21|-69.5
 Mar 7|20|-89.5
 Mar 14|20|-109.5
+Mar 21|17|-126.5
 
 LiQ
 
@@ -477,6 +482,7 @@ Feb 14|+22(for car)|1.5
 Feb 28|21|-19.5
 Mar 7|20|-39.5
 Mar 14|20|-59.5
+Mar 21|17|-76.5
 
 Xudong
 
@@ -564,6 +570,7 @@ Feb 14|24|-46
 Feb 28|21|-67
 Mar 7|20|-87
 Mar 14|20|-107
+Mar 21|17|-124
 
 Yiqi
 
@@ -590,6 +597,7 @@ Feb 14|24|-24
 Feb 28|21|-45
 Mar 7|20|-65
 Mar 14|20|-85
+Mar 21|17|-102
 
 Wangbingjie
 
@@ -599,6 +607,7 @@ Feb 14|24|-24
 Feb 28|21|-45
 Mar 7|20|-65
 Mar 14|20|-85
+Mar 21|17|-102
 
 Wangjingyu
 
@@ -607,6 +616,7 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
+Mar 21|17|-82
 
 Xuchengyuan
 
@@ -630,6 +640,7 @@ Feb 14|24|-24
 Feb 14|+20(for rent)|-4
 Feb 28|21|-25
 Mar 14|20|-45
+Mar 21|17|-62
 
 Yinhuaike
 
@@ -650,3 +661,16 @@ Fulidan
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar 14|20|-20
+
+Xiong
+
+Date|Event/Fee|Balance
+----|---------|-------
+Mar 21|17|-17
+
+Liangbo
+
+Date|Event/Fee|Balance
+----|---------|-------
+Mar 21|17|-17
+

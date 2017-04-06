@@ -56,6 +56,7 @@ Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye
 Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong|141/9|5.0(ball)|
 Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majing, Shengyan|211/15|5.0(ball)|
 Mar. 21|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Mei, Xiong, Liangbo|141/12|5.0(ball)|
+Mar. 28|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Xuchenyuan, Wind, Xiong, Liangbo, Liyaolin|211/14|5.0(ball)|
 
 Shuang
 
@@ -115,6 +116,7 @@ Feb 28|21|-427
 Mar 7|20|-447
 Mar 14|20|-467
 Mar 21|17|-484
+Mar 28|20|-504
 
 Aubrey
 
@@ -251,6 +253,7 @@ Feb 28|21|-66
 Mar 7|20|-86
 Mar 14|20|-106
 Mar 21|17|-123
+Mar 28|20|-143
 
 Tianye
 
@@ -310,6 +313,7 @@ Feb 28|21|-69.5
 Mar 7|20|-89.5
 Mar 14|20|-109.5
 Mar 21|17|-126.5
+Mar 28|20|-146.5
 
 LiQ
 
@@ -416,6 +420,7 @@ Oct. 18|14.5|141
 Oct. 25|14.5|126.5
 Nov. 15|14.5|112
 Feb 21|24|-406
+Mar 28|20|-426
 
 Yakui
 
@@ -483,6 +488,7 @@ Feb 28|21|-19.5
 Mar 7|20|-39.5
 Mar 14|20|-59.5
 Mar 21|17|-76.5
+Mar 28|20|-96.5
 
 Xudong
 
@@ -571,6 +577,7 @@ Feb 28|21|-67
 Mar 7|20|-87
 Mar 14|20|-107
 Mar 21|17|-124
+Mar 28|20|-144
 
 Yiqi
 
@@ -598,6 +605,7 @@ Feb 28|21|-45
 Mar 7|20|-65
 Mar 14|20|-85
 Mar 21|17|-102
+Mar 28|20|-122
 
 Wangbingjie
 
@@ -608,6 +616,7 @@ Feb 28|21|-45
 Mar 7|20|-65
 Mar 14|20|-85
 Mar 21|17|-102
+Mar 28|20|-122
 
 Wangjingyu
 
@@ -617,6 +626,7 @@ Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
 Mar 21|17|-82
+Mar 28|20|-102
 
 Xuchengyuan
 
@@ -625,12 +635,14 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
+Mar 28|20|-85
 
 Liyaolin
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Feb 14|24|-24
+Mar 28|20|-44
 
 Liuzuoyu
 
@@ -641,6 +653,7 @@ Feb 14|+20(for rent)|-4
 Feb 28|21|-25
 Mar 14|20|-45
 Mar 21|17|-62
+Mar 28|20|-82
 
 Yinhuaike
 
@@ -673,4 +686,5 @@ Liangbo
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar 21|17|-17
+Mar 28|20|-37
 

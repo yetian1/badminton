@@ -622,6 +622,7 @@ Mar 7|20|-65
 Mar 14|20|-85
 Mar 21|17|-102
 Mar 28|20|-122
+Apr 7|+122|0
 
 Wangjingyu
 
@@ -632,6 +633,7 @@ Feb 28|21|-45
 Mar 14|20|-65
 Mar 21|17|-82
 Mar 28|20|-102
+Apr 7|+102|0
 
 Xuchengyuan
 
@@ -641,6 +643,7 @@ Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
 Mar 28|20|-85
+Apr 7|+85|0
 
 Liyaolin
 
@@ -659,6 +662,7 @@ Feb 28|21|-25
 Mar 14|20|-45
 Mar 21|17|-62
 Mar 28|20|-82
+Apr 7|+82|0
 
 Yinhuaike
 
@@ -667,12 +671,14 @@ Date|Event/Fee|Balance
 Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
+Apr 7|+65|0
 
 Majing
 
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar 14|20|-20
+Apr 7|+20|0
 
 Fulidan
 

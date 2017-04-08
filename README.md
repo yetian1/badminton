@@ -692,6 +692,7 @@ Xiong
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar 21|17|-17
+Apr 8|+17|0
 
 Liangbo
 

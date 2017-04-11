@@ -686,6 +686,7 @@ Fulidan
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar 14|20|-20
+Apr 10|+20|0
 
 Xiong
 

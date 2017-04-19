@@ -57,6 +57,8 @@ Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, L
 Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majing, Shengyan|211/15|5.0(ball)|
 Mar. 21|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Mei, Xiong, Liangbo|141/12|5.0(ball)|
 Mar. 28|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Xuchenyuan, Wind, Xiong, Liangbo, Liyaolin|211/14|5.0(ball)|
+Apr. 11|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Liuzuoyu, Wangjingyu, Xiong, Liangbo|141/8|5.0(ball)|
+Apr. 18|2h(LongQix2)|Shuang, Liulei, Liuzuoyu, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui|141/8|5.0(ball)|
 
 Shuang
 
@@ -117,6 +119,8 @@ Mar 7|20|-447
 Mar 14|20|-467
 Mar 21|17|-484
 Mar 28|20|-504
+Apr 11|20|-524
+Apr 18|20|-544
 
 Aubrey
 
@@ -255,6 +259,7 @@ Mar 14|20|-106
 Mar 21|17|-123
 Mar 28|20|-143
 Apr 7|+143|0
+Apr 11|20|-20
 
 Tianye
 
@@ -316,6 +321,7 @@ Mar 14|20|-109.5
 Mar 21|17|-126.5
 Mar 28|20|-146.5
 Mar 28|+200|53.5
+Apr 11|20|33.5
 
 LiQ
 
@@ -582,6 +588,9 @@ Mar 14|20|-107
 Mar 21|17|-124
 Mar 28|20|-144
 Apr 6|+144|0
+Apr 11|20|-20
+Apr 18|20|-40
+Apr 18|+75|35
 
 Yiqi
 
@@ -612,6 +621,8 @@ Mar 14|20|-85
 Mar 21|17|-102
 Mar 28|20|-122
 Apr 7|+122|0
+Apr 11|20|-20
+Apr 18|20|-40
 
 Wangbingjie
 
@@ -624,6 +635,7 @@ Mar 14|20|-85
 Mar 21|17|-102
 Mar 28|20|-122
 Apr 7|+122|0
+Apr 18|20|-20
 
 Wangjingyu
 
@@ -635,6 +647,8 @@ Mar 14|20|-65
 Mar 21|17|-82
 Mar 28|20|-102
 Apr 7|+102|0
+Apr 11|20|-20
+Apr 18|20|-40
 
 Xuchengyuan
 
@@ -664,6 +678,8 @@ Mar 14|20|-45
 Mar 21|17|-62
 Mar 28|20|-82
 Apr 7|+82|0
+Apr 11|20|-20
+Apr 18|20|-40
 
 Yinhuaike
 
@@ -694,6 +710,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Mar 21|17|-17
 Apr 8|+17|0
+Apr 11|20|-20
 
 Liangbo
 
@@ -701,4 +718,8 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Mar 21|17|-17
 Mar 28|20|-37
+Apr 11|20|-57
+Apr 18|20|-77
+Apr 18|+37|-40
+
 

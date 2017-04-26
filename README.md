@@ -736,4 +736,5 @@ Songyiming
 Date|Event/Fee|Balance
 ----|---------|-------
 Apr 25|24|-24
+Apr 26|+24|0
 

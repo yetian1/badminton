@@ -60,7 +60,7 @@ Mar. 28|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, 
 Apr. 11|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Liuzuoyu, Wangjingyu, Xiong, Liangbo|141/8|5.0(ball)|
 Apr. 18|2h(LongQix2)|Shuang, Liulei, Liuzuoyu, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui|141/8|5.0(ball)|
 Apr. 25|2h(LongQix3)|Shuang, Tianye, Liulei, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui, Songyiming, Sunan, Xiong|211/11|5.0(ball)|
-May. 2|2h(LongQix2)|Shuang, Tianye, Liangbo, Wangbinjie, Zhangpenghui, Sunan, Majing|141/7|5.0(ball)|
+May. 2|2h(LongQix2)|Shuang, Tianye, Liangbo, Wangbinjie, Zhangpenghui, Sunan, Majing|(141+46)/7|5.0(ball)|
 
 Shuang
 
@@ -124,7 +124,7 @@ Mar 28|20|-504
 Apr 11|20|-524
 Apr 18|20|-544
 Apr 25|24|-568
-May 2|25|-593
+May 2|31|-599
 
 Aubrey
 
@@ -327,7 +327,7 @@ Mar 28|20|-146.5
 Mar 28|+200|53.5
 Apr 11|20|33.5
 Apr 25|24|9.5
-May 2|25|-15.5
+May 2|31|-21.5
 
 LiQ
 
@@ -504,7 +504,7 @@ Mar 14|20|-59.5
 Mar 21|17|-76.5
 Mar 28|20|-96.5
 Apr 25|24|-120.5
-May 2|25|-145.5
+May 2|31|-151.5
 
 Xudong
 
@@ -647,7 +647,7 @@ Mar 28|20|-122
 Apr 7|+122|0
 Apr 18|20|-20
 Apr 25|24|-44
-May 2|25|-69
+May 2|31|-75
 
 Wangjingyu
 
@@ -709,7 +709,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Mar 14|20|-20
 Apr 7|+20|0
-May 2|25|-25
+May 2|31|-31
 
 Fulidan
 
@@ -737,7 +737,8 @@ Apr 11|20|-57
 Apr 18|20|-77
 Apr 18|+37|-40
 Apr 25|24|-64
-May 2|25|-89
+May 2|31|-95
+May 2|+46|-49
 
 Songyiming
 Date|Event/Fee|Balance

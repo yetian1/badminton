@@ -61,6 +61,8 @@ Apr. 11|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Liuzuoyu, Wangjingyu, Xion
 Apr. 18|2h(LongQix2)|Shuang, Liulei, Liuzuoyu, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui|141/8|5.0(ball)|
 Apr. 25|2h(LongQix3)|Shuang, Tianye, Liulei, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui, Songyiming, Sunan, Xiong|211/11|5.0(ball)|
 May. 2|2h(LongQix2)|Shuang, Tianye, Liangbo, Wangbinjie, Zhangpenghui, Sunan, Majing|(141+46)/7|5.0(ball)|
+May. 9|2h(LongQix2)|Shuang, Shengyan, Tianye, Meilei, Wangbinjie, Zhangpenghui, Sunan, Xiong, Zouye|(211+70)/9|5.0(ball)|
+May. 16|1h(LongQix2)|Shuang, Tianye, Wangjingyu, Zouye, Leqi, Zhangpenghui, Sunan, Xiong, Liulei|141/9|5.0(ball)|
 
 Shuang
 
@@ -125,6 +127,8 @@ Apr 11|20|-524
 Apr 18|20|-544
 Apr 25|24|-568
 May 2|31|-599
+May 9|36|-635
+May 16|20|-655
 
 Aubrey
 
@@ -180,6 +184,7 @@ Nov. 1|14.5|51.5
 Nov. 8|13|38.5
 Nov. 15|14.5|24
 Mar 21|17|7
+May 9|36|-29
 
 Kangkang
 
@@ -328,6 +333,8 @@ Mar 28|+200|53.5
 Apr 11|20|33.5
 Apr 25|24|9.5
 May 2|31|-21.5
+May 9|36|-57.5
+May 16|20|-77.5
 
 LiQ
 
@@ -505,6 +512,8 @@ Mar 21|17|-76.5
 Mar 28|20|-96.5
 Apr 25|24|-120.5
 May 2|31|-151.5
+May 9|36|-187.5
+May 16|20|-207.5
 
 Xudong
 
@@ -557,6 +566,7 @@ Jan 17|24|-2
 Feb 14|24|-26
 Mar 14|20|-46
 Apr 7|+100|54
+May 9|36|18
 
 Guoyi
 
@@ -600,6 +610,7 @@ Apr 11|20|-20
 Apr 18|20|-40
 Apr 18|+75|35
 Apr 25|24|11
+May 16|20|-9
 
 Yiqi
 
@@ -633,6 +644,9 @@ Apr 7|+122|0
 Apr 11|20|-20
 Apr 18|20|-40
 Apr 25|24|-64
+May 9|36|-100
+May 9|+70|-30
+May 16|20|-50
 
 Wangbingjie
 
@@ -648,6 +662,7 @@ Apr 7|+122|0
 Apr 18|20|-20
 Apr 25|24|-44
 May 2|31|-75
+May 9|36|-111
 
 Wangjingyu
 
@@ -662,6 +677,8 @@ Apr 7|+102|0
 Apr 11|20|-20
 Apr 18|20|-40
 Apr 25|24|-64
+May 9|36|-100
+May 16|20|-120
 
 Xuchengyuan
 
@@ -726,6 +743,8 @@ Mar 21|17|-17
 Apr 8|+17|0
 Apr 11|20|-20
 Apr 25|24|-44
+May 9|36|-80
+May 16|20|-100
 
 Liangbo
 
@@ -746,3 +765,16 @@ Date|Event/Fee|Balance
 Apr 25|24|-24
 Apr 26|+24|0
 
+Leqi
+Date|Event/Fee|Balance
+----|---------|-------
+May 16|20|-20
+
+Zhangpenghui
+Date|Event/Fee|Balance
+----|---------|-------
+Apr 18|20|-20
+Apr 25|24|-44
+May 2|31|-75
+May 9|36|-111
+May 16|20|-131

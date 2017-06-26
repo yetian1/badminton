@@ -61,8 +61,10 @@ Apr. 11|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Liuzuoyu, Wangjingyu, Xion
 Apr. 18|2h(LongQix2)|Shuang, Liulei, Liuzuoyu, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui|141/8|5.0(ball)|
 Apr. 25|2h(LongQix3)|Shuang, Tianye, Liulei, Zouye, Wangjingyu, Liangbo, Wangbinjie, Zhangpenghui, Songyiming, Sunan, Xiong|211/11|5.0(ball)|
 May. 2|2h(LongQix2)|Shuang, Tianye, Liangbo, Wangbinjie, Zhangpenghui, Sunan, Majing|(141+46)/7|5.0(ball)|
-May. 9|2h(LongQix2)|Shuang, Shengyan, Tianye, Meilei, Wangbinjie, Zhangpenghui, Sunan, Xiong, Zouye|(211+70)/9|5.0(ball)|
+May. 9|2h(LongQix2)|Shuang, Shengyan, Tianye, Mei, Wangbinjie, Zhangpenghui, Sunan, Xiong, Zouye|(211+70)/9|5.0(ball)|
 May. 16|1h(LongQix2)|Shuang, Tianye, Wangjingyu, Zouye, Leqi, Zhangpenghui, Sunan, Xiong, Liulei|141/9|5.0(ball)|
+Jun. 6|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Mei|141/8|5.0(ball)|
+Jun. 13|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Wangbinjie, Liangbo|141/9|5.0(ball)|
 
 Shuang
 
@@ -129,6 +131,8 @@ Apr 25|24|-568
 May 2|31|-599
 May 9|36|-635
 May 16|20|-655
+Jun 6|23|-678
+Jun 13|21|-699
 
 Aubrey
 
@@ -185,6 +189,7 @@ Nov. 8|13|38.5
 Nov. 15|14.5|24
 Mar 21|17|7
 May 9|36|-29
+Jun 6|23|-52
 
 Kangkang
 
@@ -335,6 +340,8 @@ Apr 25|24|9.5
 May 2|31|-21.5
 May 9|36|-57.5
 May 16|20|-77.5
+Jun 6|23|-100.5
+Jun 13|21|-121.5
 
 LiQ
 
@@ -514,6 +521,8 @@ Apr 25|24|-120.5
 May 2|31|-151.5
 May 9|36|-187.5
 May 16|20|-207.5
+Jun 6|23|-230.5
+Jun 13|21|-251.5
 
 Xudong
 
@@ -611,6 +620,8 @@ Apr 18|20|-40
 Apr 18|+75|35
 Apr 25|24|11
 May 16|20|-9
+Jun 6|23|-32
+Jun 13|21|-53
 
 Yiqi
 
@@ -647,6 +658,8 @@ Apr 25|24|-64
 May 9|36|-100
 May 9|+70|-30
 May 16|20|-50
+Jun 6|23|-73
+Jun 13|21|-94
 
 Wangbingjie
 
@@ -663,6 +676,7 @@ Apr 18|20|-20
 Apr 25|24|-44
 May 2|31|-75
 May 9|36|-111
+Jun 13|21|-132
 
 Wangjingyu
 
@@ -745,6 +759,8 @@ Apr 11|20|-20
 Apr 25|24|-44
 May 9|36|-80
 May 16|20|-100
+Jun 6|23|-123
+Jun 13|21|-144
 
 Liangbo
 
@@ -758,6 +774,7 @@ Apr 18|+37|-40
 Apr 25|24|-64
 May 2|31|-95
 May 2|+46|-49
+Jun 13|21|-70
 
 Songyiming
 Date|Event/Fee|Balance
@@ -769,6 +786,8 @@ Leqi
 Date|Event/Fee|Balance
 ----|---------|-------
 May 16|20|-20
+Jun 6|23|-43
+Jun 13|21|-64
 
 Zhangpenghui
 Date|Event/Fee|Balance

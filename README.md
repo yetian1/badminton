@@ -66,6 +66,7 @@ May. 16|1h(LongQix2)|Shuang, Tianye, Wangjingyu, Zouye, Leqi, Zhangpenghui, Suna
 Jun. 6|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Mei|141/8|5.0(ball)|
 Jun. 13|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Wangbinjie, Liangbo|141/9|5.0(ball)|
 Jun. 27|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Liulei, Wangjingyu, Zhangpenghui, Liangbo, Yiqi|141/10|5.0(ball)|
+Jul. 4|3h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Wangbinjie, Zhangpenghui, Liangbo, Yiqi, Malong, Huangshang, Majing, Liuzuoyu|265/12|5.0(ball)|
 
 Shuang
 
@@ -135,6 +136,7 @@ May 16|20|-655
 Jun 6|23|-678
 Jun 13|21|-699
 Jun 27|19|-718
+Jul 4|27|-745
 
 Aubrey
 
@@ -345,6 +347,7 @@ May 16|20|-77.5
 Jun 6|23|-100.5
 Jun 13|21|-121.5
 Jun 27|19|-140.5
+Jul 4|27|-167.5
 
 LiQ
 
@@ -527,6 +530,7 @@ May 16|20|-207.5
 Jun 6|23|-230.5
 Jun 13|21|-251.5
 Jun 27|19|-270.5
+Jul 4|27|-297.5
 
 Xudong
 
@@ -599,6 +603,7 @@ Jan 3|15|-80
 Jan 3|+80|0
 Jan 17|24|-24
 Feb 14|24|-48
+Jul 4|27|-75
 
 Liulei
 
@@ -634,6 +639,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Dec. 13|14|-14
 Jun 27|19|-33
+Jul 4|27|-60
 
 Jingxian
 
@@ -667,6 +673,7 @@ May 16|20|-50
 Jun 6|23|-73
 Jun 13|21|-94
 Jun 27|19|-113
+Jul 4|27|-140
 
 Wangbingjie
 
@@ -684,6 +691,7 @@ Apr 25|24|-44
 May 2|31|-75
 May 9|36|-111
 Jun 13|21|-132
+Jul 4|27|-159
 
 Wangjingyu
 
@@ -732,6 +740,7 @@ Mar 28|20|-82
 Apr 7|+82|0
 Apr 11|20|-20
 Apr 18|20|-40
+Jul 4|27|-67
 
 Yinhuaike
 
@@ -749,6 +758,7 @@ Date|Event/Fee|Balance
 Mar 14|20|-20
 Apr 7|+20|0
 May 2|31|-31
+Jul 4|27|-58
 
 Fulidan
 
@@ -784,6 +794,7 @@ May 2|31|-95
 May 2|+46|-49
 Jun 13|21|-70
 Jun 27|19|-89
+Jul 4|27|-116
 
 Songyiming
 Date|Event/Fee|Balance
@@ -798,6 +809,7 @@ May 16|20|-20
 Jun 6|23|-43
 Jun 13|21|-64
 Jun 27|19|-83
+Jul 4|27|-110
 
 Zhangpenghui
 Date|Event/Fee|Balance
@@ -808,3 +820,4 @@ May 2|31|-75
 May 9|36|-111
 May 16|20|-131
 Jun 27|19|-150
+Jul 4|27|-177

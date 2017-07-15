@@ -67,6 +67,7 @@ Jun. 6|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Mei|141/8
 Jun. 13|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Wangbinjie, Liangbo|141/9|5.0(ball)|
 Jun. 27|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Liulei, Wangjingyu, Zhangpenghui, Liangbo, Yiqi|141/10|5.0(ball)|
 Jul. 4|3h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Wangbinjie, Zhangpenghui, Liangbo, Yiqi, Malong, Huangshang, Majing, Liuzuoyu|265/12|5.0(ball)|
+Jul. 11|3h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Wangbinjie, Malong, Liulei, Ruiwen, Yixiang, Majing, Liuzuoyu|265/11|5.0(ball)|
 
 Shuang
 
@@ -137,6 +138,7 @@ Jun 6|23|-678
 Jun 13|21|-699
 Jun 27|19|-718
 Jul 4|27|-745
+Jul 11|29|-774
 
 Aubrey
 
@@ -348,6 +350,8 @@ Jun 6|23|-100.5
 Jun 13|21|-121.5
 Jun 27|19|-140.5
 Jul 4|27|-167.5
+Jul 10|+200|32.5
+Jul 11|29|3.5
 
 LiQ
 
@@ -531,6 +535,7 @@ Jun 6|23|-230.5
 Jun 13|21|-251.5
 Jun 27|19|-270.5
 Jul 4|27|-297.5
+Jul 10|+300|2.5
 
 Xudong
 
@@ -604,6 +609,7 @@ Jan 3|+80|0
 Jan 17|24|-24
 Feb 14|24|-48
 Jul 4|27|-75
+Jul 11|29|-104
 
 Liulei
 
@@ -632,6 +638,7 @@ May 16|20|-9
 Jun 6|23|-32
 Jun 13|21|-53
 Jun 27|19|-72
+Jul 11|29|-101
 
 Yiqi
 
@@ -640,6 +647,7 @@ Date|Event/Fee|Balance
 Dec. 13|14|-14
 Jun 27|19|-33
 Jul 4|27|-60
+Jul 10|+60|0
 
 Jingxian
 
@@ -674,6 +682,7 @@ Jun 6|23|-73
 Jun 13|21|-94
 Jun 27|19|-113
 Jul 4|27|-140
+Jul 11|29|-169
 
 Wangbingjie
 
@@ -692,6 +701,7 @@ May 2|31|-75
 May 9|36|-111
 Jun 13|21|-132
 Jul 4|27|-159
+Jul 11|29|-188
 
 Wangjingyu
 
@@ -741,6 +751,7 @@ Apr 7|+82|0
 Apr 11|20|-20
 Apr 18|20|-40
 Jul 4|27|-67
+Jul 11|29|-96
 
 Yinhuaike
 
@@ -759,6 +770,7 @@ Mar 14|20|-20
 Apr 7|+20|0
 May 2|31|-31
 Jul 4|27|-58
+Jul 11|29|-87
 
 Fulidan
 
@@ -779,6 +791,7 @@ May 9|36|-80
 May 16|20|-100
 Jun 6|23|-123
 Jun 13|21|-144
+Jul 10|+144|0
 
 Liangbo
 
@@ -810,6 +823,7 @@ Jun 6|23|-43
 Jun 13|21|-64
 Jun 27|19|-83
 Jul 4|27|-110
+Jul 11|29|-139
 
 Zhangpenghui
 Date|Event/Fee|Balance
@@ -821,3 +835,14 @@ May 9|36|-111
 May 16|20|-131
 Jun 27|19|-150
 Jul 4|27|-177
+
+Ruiwen
+Date|Event/Fee|Balance
+----|---------|-------
+Jul 11|29|-29
+
+Yixiang
+Date|Event/Fee|Balance
+----|---------|-------
+Jul 11|29|-29
+

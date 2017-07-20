@@ -66,8 +66,9 @@ May. 16|1h(LongQix2)|Shuang, Tianye, Wangjingyu, Zouye, Leqi, Zhangpenghui, Suna
 Jun. 6|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Mei|141/8|5.0(ball)|
 Jun. 13|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Xiong, Liulei, Wangbinjie, Liangbo|141/9|5.0(ball)|
 Jun. 27|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Liulei, Wangjingyu, Zhangpenghui, Liangbo, Yiqi|141/10|5.0(ball)|
-Jul. 4|3h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Wangbinjie, Zhangpenghui, Liangbo, Yiqi, Malong, Huangshang, Majing, Liuzuoyu|265/12|5.0(ball)|
-Jul. 11|3h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Wangbinjie, Malong, Liulei, Ruiwen, Yixiang, Majing, Liuzuoyu|265/11|5.0(ball)|
+Jul. 4|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Sunan, Wangbinjie, Zhangpenghui, Liangbo, Yiqi, Malong, Huangshang, Majing, Liuzuoyu|265/12|5.0(ball)|
+Jul. 11|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Wangbinjie, Malong, Liulei, Ruiwen, Yixiang, Majing, Liuzuoyu|265/11|5.0(ball)|
+Jul. 18|2h(LongQix2)|Shuang, Tianye, Zouye, Leqi, Yixiang, Sunan, Zhangpenghui |140/7|5.0(ball)|
 
 Shuang
 
@@ -139,6 +140,8 @@ Jun 13|21|-699
 Jun 27|19|-718
 Jul 4|27|-745
 Jul 11|29|-774
+Jul 18|28|-802
+Jul 18|-85|-887
 
 Aubrey
 
@@ -352,6 +355,7 @@ Jun 27|19|-140.5
 Jul 4|27|-167.5
 Jul 10|+200|32.5
 Jul 11|29|3.5
+Jul 18|28|-24.5
 
 LiQ
 
@@ -536,6 +540,7 @@ Jun 13|21|-251.5
 Jun 27|19|-270.5
 Jul 4|27|-297.5
 Jul 10|+300|2.5
+Jul 18|28|-26.5
 
 Xudong
 
@@ -683,6 +688,7 @@ Jun 13|21|-94
 Jun 27|19|-113
 Jul 4|27|-140
 Jul 11|29|-169
+Jul 18|28|-197
 
 Wangbingjie
 
@@ -824,6 +830,7 @@ Jun 13|21|-64
 Jun 27|19|-83
 Jul 4|27|-110
 Jul 11|29|-139
+Jul 18|28|-167
 
 Zhangpenghui
 Date|Event/Fee|Balance
@@ -835,6 +842,7 @@ May 9|36|-111
 May 16|20|-131
 Jun 27|19|-150
 Jul 4|27|-177
+Jul 18|28|-205
 
 Ruiwen
 Date|Event/Fee|Balance
@@ -845,4 +853,5 @@ Yixiang
 Date|Event/Fee|Balance
 ----|---------|-------
 Jul 11|29|-29
+Jul 18|28|-57
 
